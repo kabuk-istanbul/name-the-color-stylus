@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nofloor/name-the-color-stylus.git"
+    "url": "git+https://github.com/kabuk-istanbul/name-the-color-stylus.git"
   },
   "keywords": [
     "color",
@@ -18,7 +18,7 @@
   "author": "Kabuk",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nofloor/name-the-color-stylus/issues"
+    "url": "https://github.com/kabuk-istanbul/name-the-color-stylus/issues"
   },
-  "homepage": "https://github.com/nofloor/name-the-color-stylus#readme"
+  "homepage": "https://github.com/kabuk-istanbul/name-the-color-stylus#readme"
 }
