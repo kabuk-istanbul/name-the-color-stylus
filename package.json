@@ -1,0 +1,24 @@
+{
+  "name": "name-that-color-stylus",
+  "version": "1.0.0",
+  "description": "Creates name for colors by Chirag Mehta's ntc.js and turn it into class name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nofloor/name-the-color-stylus.git"
+  },
+  "keywords": [
+    "color",
+    "name",
+    "stylus"
+  ],
+  "author": "Kabuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nofloor/name-the-color-stylus/issues"
+  },
+  "homepage": "https://github.com/nofloor/name-the-color-stylus#readme"
+}
