@@ -1,5 +1,5 @@
 {
-  "name": "name-that-color-stylus",
+  "name": "name-the-color-stylus",
   "version": "1.0.0",
   "description": "Creates name for colors by Chirag Mehta's ntc.js and turn it into class name.",
   "main": "index.js",
