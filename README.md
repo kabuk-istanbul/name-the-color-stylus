@@ -11,7 +11,7 @@ $ npm install name-the-color-stylus
 
 ```javascript
 var nameTheColor = require('name-the-color-stylus'),
-    stylu = require('stylus');
+    stylus = require('stylus');
 
 function compile(str) {
   return stylus(str)
@@ -24,7 +24,7 @@ function compile(str) {
 
 ```javascript
 var nameTheColor = require('name-the-color-stylus'),
-    stylu = require('gulp-stylus');
+    stylus = require('gulp-stylus');
 
 gulp.task('stylus', function(){
     gulp.src('./your_stylus_file.styl')
