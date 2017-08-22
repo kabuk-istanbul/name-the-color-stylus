@@ -1,5 +1,5 @@
 # name-the-color-stylus
-Creates name for colors by [Chirag Mehta](http://chir.ag/)'s [ntc.js](http://chir.ag/projects/ntc/) and turn it into class name.
+Creates names for colors by [Chirag Mehta](http://chir.ag/)'s [ntc.js](http://chir.ag/projects/ntc/) and turn them into class names.
 
 ## Installation
 
