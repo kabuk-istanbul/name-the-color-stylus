@@ -57,7 +57,7 @@ Returns approximate hue name of color
 
 ```stylus
 hue-name(#2574FF) // 'Blue'
-
+```
 
 ### name-that-color
 
@@ -65,3 +65,4 @@ Returns color's all information as a list (ntc.name() method in ntc.js)
 
 ```stylus
 name-that-color(#2574FF) // '#1E90FF' 'Dodger Blue' '#0000FF' 'Blue' false
+```
