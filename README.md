@@ -37,7 +37,7 @@ gulp.task('stylus', function(){
 
 ### name
 
-Returns name of color
+Returns name of the color
 
 ```stylus
 name(#2574FF) // 'Dodger Blue'
@@ -45,7 +45,7 @@ name(#2574FF) // 'Dodger Blue'
 
 ### class-name
 
-Returns class name of color
+Returns class name of the color
 
 ```stylus
 class-name(#2574FF) // 'dodger-blue'
@@ -53,7 +53,7 @@ class-name(#2574FF) // 'dodger-blue'
 
 ### hue-name
 
-Returns approximate hue name of color
+Returns approximate hue name of the color
 
 ```stylus
 hue-name(#2574FF) // 'Blue'
@@ -61,7 +61,7 @@ hue-name(#2574FF) // 'Blue'
 
 ### name-that-color
 
-Returns color's all information as a list (ntc.name() method in ntc.js)
+Returns the color's all information as a list (ntc.name() method in ntc.js)
 
 ```stylus
 name-that-color(#2574FF) // '#1E90FF' 'Dodger Blue' '#0000FF' 'Blue' false
